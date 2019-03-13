@@ -2,7 +2,7 @@
 
 Kickstarter Data Analyses (Excel/VBA)
 <br>
-<ul>Kickstarter Data Set Overviewv2.docx</ul>
+Overview located in the Github file:  Kickstarter Data Set Overviewv2.docx
 
 Executive Overview 
 (GRAPH OVERVIEWS INCLUDED AFTER EXECUTIVE PAGE ON PAGES 2 thru 4)
