@@ -14,6 +14,6 @@ Executive Overview
 •	1 out of 4 of the Kickstarter campaigns fell into sub-categories where 100% of those campaigns failed or were canceled.   Food trucks, Web projects, and Animated film projects were the largest failed sub-categories
 <br>
 <br>
-Interesting Factoid: Within this data analyzed, the highest successful goal amount was $400,000 for a AR/VR hardware campaign and it received $1M in pledged money
+Interesting Factoid: Within this data analyzed, the highest successful goal amount was $400,000 for an AR/VR hardware campaign and it received $1M in pledged money
 
 
